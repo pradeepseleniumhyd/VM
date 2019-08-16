@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[ValueMomentum | IT Services & Software is matched]]>
+    </line>
+    <line>
+      <![CDATA[Resources is matched]]>
+    </line>
+    <line>
+      <![CDATA[About is matched]]>
+    </line>
+    <line>
+      <![CDATA[Blog is matched]]>
+    </line>
+    <line>
+      <![CDATA[Careers is matched]]>
+    </line>
+    <line>
+      <![CDATA[News is matched]]>
+    </line>
+    <line>
+      <![CDATA[Events is matched]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39081" started-at="2019-08-16T01:48:34Z" finished-at="2019-08-16T01:49:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39081" started-at="2019-08-16T01:48:34Z" finished-at="2019-08-16T01:49:14Z">
+      <class name="TC001">
+        <test-method status="PASS" signature="report()[pri:0, instance:TC001@bbfa04]" name="report" is-config="true" duration-ms="147" started-at="2019-08-16T01:48:34Z" finished-at="2019-08-16T01:48:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="TC001()[pri:0, instance:TC001@bbfa04]" name="TC001" duration-ms="36454" started-at="2019-08-16T01:48:35Z" finished-at="2019-08-16T01:49:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ValueMomentum | IT Services & Software is matched]]>
+            </line>
+            <line>
+              <![CDATA[Resources is matched]]>
+            </line>
+            <line>
+              <![CDATA[About is matched]]>
+            </line>
+            <line>
+              <![CDATA[Blog is matched]]>
+            </line>
+            <line>
+              <![CDATA[Careers is matched]]>
+            </line>
+            <line>
+              <![CDATA[News is matched]]>
+            </line>
+            <line>
+              <![CDATA[Events is matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TC001@bbfa04]" name="close" is-config="true" duration-ms="2606" started-at="2019-08-16T01:49:11Z" finished-at="2019-08-16T01:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
